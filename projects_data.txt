@@ -1,2 +1,1 @@
-1:DevOps:Containerization & Deployment:20000:1/1/2022:1/12/2022
-2:Crowfund Raise:Crowfund Raise for the upcoming app:40000:1/1/2023:1/12/2023
+1:crowdfund_raise:Crowdfund Raise for the upcoming app:40000:1/1/2023:1/12/2023
