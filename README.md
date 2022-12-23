@@ -36,7 +36,7 @@ Crowdfunding is a form of crowdsourcing and alternative finance. In 2015, over U
 ### Installation
 
 ```
-git clone
+git clone https://github.com/Ch4e/crowd-funding-console.git
 ```
 
 ```
