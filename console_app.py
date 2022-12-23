@@ -4,7 +4,7 @@ from login import login_app
 
 print("Please select either Registeration or login : \n 1) Registeration \n 2) Login \n 3) Exit")
 choice = input(
-    "If this is your first time to login to the app please select Registeration : \n")
+    "If this is your first time to login to the app please select Registeration : ")
 
 if choice == "1":
     registeration()

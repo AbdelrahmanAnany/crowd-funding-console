@@ -10,7 +10,7 @@ def edit(user_id):
         if user_project[1] == project_name and user_id == user_project[0]:
             print(all_projects)
             key_name = input(
-                '\n\nplease choose t to edit project title, \n\nd to edit project details  , \n\ng to edit project target, \n\ns to edit start date , \n\ne to edit end date, \n\na to edit all : ')
+                '\n\nplease select \n\nt to edit project title, \n\nd to edit project details, \n\ng to edit project target, \n\ns to edit start date, \n\ne to edit end date, \n\na to edit all :\n')
             if key_name == "t":
                 newtitle = input("please enter new project name: ")
                 user_project[1] = newtitle
